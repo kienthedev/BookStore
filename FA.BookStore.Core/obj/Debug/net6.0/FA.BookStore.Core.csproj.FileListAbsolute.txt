@@ -1,0 +1,14 @@
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.deps.json
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.runtimeconfig.json
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.dll
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.pdb
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.csproj.AssemblyReference.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.AssemblyInfoInputs.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.AssemblyInfo.cs
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.csproj.CoreCompileInputs.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.dll
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\refint\FA.BookStore.Core.dll
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.pdb
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.genruntimeconfig.cache
+D:\MAJOR\Fresher Fsoft\NEFW\KienNT86_EF_ASM02\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\ref\FA.BookStore.Core.dll
